@@ -14,8 +14,8 @@ This repository was created as part of a lab assignment to explore GitHub and Ju
 
 ## Tools Used
 - GitHub (repository hosting and version control)
-- GitHub Desktop (for cloning and uploading files)
-- Jupyter Notebook (via Google Colab or local installation)
+- VS Code (for cloning repos and eidting/uploading files)
+- Jupyter Notebook (via local installation)
 - Python (basic output example)
 
 ## What I Learned
@@ -24,7 +24,7 @@ Through this lab, I learned how to:
 - Make commits and push changes to GitHub
 - Create and run cells in a Jupyter Notebook
 - Use Markdown and Code cells in Jupyter
-- Upload notebook files to GitHub using GitHub Desktop
+- Upload notebook files to GitHub using VS Code
 
 ## Notes
 This repository is part of an academic lab assignment and is intended for educational purposes only.
